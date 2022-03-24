@@ -1,0 +1,4 @@
+"id"	"name"	"password"	"email"	"mobile"	"isAdmin"
+"1"	"小红"	"123"	"xiaohong@126.com"	"15266652376"	"0"
+"2"	"xiaoming"	"234"	"xiaoming@126.com"	"18900999900"	"0"
+"3"	"admin"	"admin"	"admin@126.com"	"18967899876"	"1"
