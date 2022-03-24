@@ -4,10 +4,10 @@
  * @Author: tjwang
  * @Date: 2022-03-24 14:56:22
  * @LastEditors: tjwang
- * @LastEditTime: 2022-03-24 21:10:30
+ * @LastEditTime: 2022-03-25 07:35:31
 -->
 
-                                                              问卷系统文档说明
+## 问卷系统文档说明
 
 ### 1、代码
 
@@ -25,11 +25,11 @@
 
 #### 2、后端代码中`sys_user.txt`和`questionnaire.txt`两张表导入到数据库中；
 
-###3、在==/nodeExpress==路径下执行`npm install`命令安装后端相关依赖；
+### 3、在==/nodeExpress==路径下执行`npm install`命令安装后端相关依赖；
 
 ### 4、在当前路径下执行`nodemon app.js`或者`node app.js`启动后端服务；
 
-###5、切换到==/nodeVue==路径下执行`npm install`命令安装相关前端依赖；
+### 5、切换到==/nodeVue==路径下执行`npm install`命令安装相关前端依赖；
 
 ### 6、在当前路径下执行`npm run dev`命令启动前端服务
 
